@@ -1,0 +1,66 @@
+html {
+	font-family: 'Roboto', monospace, sans-serif;
+	font-weight: lighter;
+    letter-spacing: 0.03em;
+	font-size: 1.5em;
+	color: rgb(69, 72, 76);
+	text-align: center;
+	background-color: rgb(209, 219, 215);
+}
+
+.container {
+	width: 500px;
+	margin: 66px auto 0 auto;
+	padding: 5px 5px 30px 5px;
+	background-color: rgb(161, 192, 196);
+	border-radius: 10px;
+	border: 4px solid rgb(97, 159, 171);
+}
+
+input {
+	width: 360px;
+	border: 2px solid rgb(209, 219, 215);
+	border-radius: 10px;
+	font-size: 32px;
+	margin-bottom: 20px;
+	font-family: 'Roboto', monospace, sans-serif;
+	font-weight: lighter;
+    letter-spacing: 0.03em;
+	text-align: center;
+	color: rgb(69, 72, 76);
+}
+
+.go {
+	margin: 0 auto 15px auto;
+	width: 100px;
+	border: 2px solid rgb(209, 219, 215);
+	border-radius: 10px;
+	font-size: 42px;
+	background-color: rgb(224, 142, 65);
+}
+
+ul {	
+	list-style-type: none;
+	padding-left: 0;
+	text-align: left;
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.f {
+	background-color: #dea9c3;
+}
+
+.b {
+	background-color: #c8a9de;
+}
+
+.fb {
+	background-color: #f55d4d;
+}
+
+.other {
+	background-color: #dbe9f1;
+	
+}
